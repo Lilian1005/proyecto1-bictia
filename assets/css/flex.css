@@ -1,0 +1,16 @@
+
+.contenedor-flex {
+    width: 100%;
+    height: 40%;
+    flex-wrap: wrap ;
+    display: flex;
+    
+
+}
+.elemento{
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    background: cadetblue;
+}
+h1{font-size: small;}
